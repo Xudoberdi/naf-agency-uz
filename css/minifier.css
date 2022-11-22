@@ -708,3 +708,21 @@ hr {
   transform: matrix(-1, 0, 0, 1, 0, 0);
   padding: 6px 11px;
 }
+.sitenav__link:hover {
+  color: #000acc;
+}
+.sitenav__link:active {
+  color: #000;
+}
+.mainly__left-link:hover {
+  background-color: #dfbb7f;
+}
+.hero__item:hover {
+  border: 1px solid #dfbb7f;
+}
+.portfolio__nav-link:hover {
+  background-color: #dfbb7f;
+}
+.portfolio__link:hover {
+  background-color: #b8b8b8;
+}
